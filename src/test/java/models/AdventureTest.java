@@ -20,6 +20,6 @@ public class AdventureTest {
     public void setDestination_setsDestination_String() {
         Adventure testAdventure = new Adventure("Japan");
         testAdventure.setDestination("Tokyo");
-        assertEquals("Japan", testAdventure.getDestination());
+        assertEquals("Tokyo", testAdventure.getDestination());
     }
 }

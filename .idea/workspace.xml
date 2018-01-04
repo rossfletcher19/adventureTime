@@ -61,8 +61,8 @@
       <file leaf-file-name="AdventureTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/models/AdventureTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="500">
+              <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -858,6 +858,12 @@
     <history-entry file="AdventureTest_setDestination_setsDestination_String - 2018.01.04 at 09h 28m 23s.xml">
       <configuration name="AdventureTest.setDestination_setsDestination_String" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AdventureTest_setDestination_setsDestination_String - 2018.01.04 at 09h 29m 16s.xml">
+      <configuration name="AdventureTest.setDestination_setsDestination_String" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdventureTest_setDestination_setsDestination_String - 2018.01.04 at 09h 29m 38s.xml">
+      <configuration name="AdventureTest.setDestination_setsDestination_String" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -939,8 +945,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/models/AdventureTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="500">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
